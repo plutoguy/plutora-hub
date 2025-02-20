@@ -1,3 +1,3 @@
-if game.PlaceID == 18901165922 then
+if game.PlaceId == 18901165922 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/plutoguy/plutora-hub/refs/heads/main/pets-go"))()
 end
